@@ -1,0 +1,15 @@
+{
+  "avatar": "https://ui-avatars.com/api/?name=Madzz&background=2563eb&color=fff&size=100",
+  "name": "Madzz",
+  "bio": "Creative developer & preset maker",
+  "socials": [
+    { "name": "GitHub", "url": "https://github.com/madzz123", "icon": "github" },
+    { "name": "Telegram", "url": "https://t.me/madzzLDBofc", "icon": "telegram" },
+    { "name" : "Whatsapp", "url": "https://wa.me/6285811474663", "icon": "whatsapp"}
+  ],
+  "links": [
+    { "title": "Portfolio", "url": "https://madzzo.my.id", "icon": "globe" },
+    { "title" : "Portfolio arsyad", "url": "https://arsyads.dev", "icon": "globe" },
+    { "title" : "M.A.F - Deploy server", "url": "https://mafcloud.my.id", "icon": "globe" }
+  ]
+}
